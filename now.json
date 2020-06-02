@@ -1,0 +1,7 @@
+{
+  "scope": "jakubenglicky",
+  "name": "serverless-test",
+  "rewrites": [
+    { "source": "/", "destination": "/public/index.html" }
+  ]
+}
